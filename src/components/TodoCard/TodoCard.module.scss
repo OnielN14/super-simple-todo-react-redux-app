@@ -1,0 +1,9 @@
+.TodoCard {
+  & > .TodoCard__Details {
+    &.TodoCard__Details__Done {
+      & > span {
+        text-decoration: line-through;
+      }
+    }
+  }
+}

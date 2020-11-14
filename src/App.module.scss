@@ -1,0 +1,11 @@
+.App {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  height: 100vh;
+}
