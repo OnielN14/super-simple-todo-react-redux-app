@@ -18,7 +18,7 @@ npm run start
 ```
 
 ## Note
-- Bootsraped by [Create React App](https://github.com/facebook/create-react-app).
+- Bootstrapped by [Create React App](https://github.com/facebook/create-react-app).
 - UI kit by [FluentUI](https://developer.microsoft.com/en-us/fluentui).
 
 
